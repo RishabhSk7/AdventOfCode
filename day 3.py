@@ -1,7 +1,3 @@
-from itertools import count
-from typing import Counter
-
-
 a = """110001010110
 011101111101
 111011110101
